@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V12.5.16.0.RKPCNXM/miui_CHOPIN_V12.5.16.0.RKPCNXM_0dd92d0c86_11.0.zip
+  ROM_URL: https://xiaomi.baishancdnx.cn/xdispatch6f19f12c75a1b755/bigota.d.miui.com/V12.5.16.0.RKPCNXM/miui_CHOPIN_V12.5.16.0.RKPCNXM_0dd92d0c86_11.0.zip?bsreqid=88c88b07fdbdc9957c08c4bcb4da2cd5&DPhost=xiaomi.baishancdnx.cn
   ROM_NAME: Generic Pixel
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
